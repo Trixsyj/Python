@@ -50,7 +50,7 @@
 Хочу уметь находить закономерности, анализировать прошлое и делать открытия при помощи данных.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0CqyFqgj20/giphy.gif" width="300px">
+  <img src="[https://media.giphy.com/media/26gsspf0CqyFqgj20/giphy.gif" width="300px](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJmYm5lZGIwb3RiemM4d3l5ZjdwNzM3cnd5d3BpMnplZ3E1OTJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTu8N93RFxFC/giphy.gif)">
 </p>
 
 📬 Связаться со мной: [Email](myrsalievaestel@gmail.com) 
