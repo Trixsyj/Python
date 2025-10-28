@@ -99,7 +99,6 @@ diff = 23-56
 print(abs(diff))
 
 #11
-
 a = 290
 b = 25
 dif = 290/25
@@ -107,3 +106,63 @@ dif2 = 290%25
 print(dif)
 print(dif2)
 
+#12
+h_1 = 13
+m_1 = 25
+
+h_2 = 19
+m_2 = 40
+time1 = h_2 - h_1
+time2 = m_2 - m_1
+
+print(time1 , ':' , time2)
+
+#13
+
+#old_price = int(input('Write old price: '))
+#new_price = int(input('Write new price: '))
+
+#res = round((new_price - old_price) / old_price * 100 , 1)
+#print('Цена изменилась на' , res, '%')
+
+#14
+
+import math as mt
+x = 2
+y = mt.e ** (1/(1+mt.cos(x) ** 2))
+print(y)
+
+#15
+
+prod = 1500
+operator = 45
+
+res = round(1500/45)
+print(f'Для выполнения заказа необходимо задействовать {res} поста')
+
+#16
+import math
+
+katet_1 = int(input('Введите длину катета: '))
+katet_2 = int(input('Введите длину катета: '))
+gip = int(input('Введите длину гипотенузы: '))
+
+mniejshiy_katet = min(katet_1, katet_2)
+sin_angle = mniejshiy_katet / gip
+
+print('Синус наименьшего угла равен:', sin_angle)
+
+#17
+import math
+
+katet_1 = int(input('Введите длину катета: '))
+katet_2 = int(input('Введите длину катета: '))
+gip = int(input('Введите длину гипотенузы: '))
+
+mniejshiy_katet = min(katet_1, katet_2)
+sin_angle = mniejshiy_katet / gip
+
+angle_rad = math.asin(sin_angle)
+angle_deg = angle_rad * 180 / math.pi
+
+print('Меньший острый угол равен:', round(angle_deg, 2), 'градусов')
